@@ -4,6 +4,11 @@
 
 ---
 
+## GIF Example
+
+![javaw_OZOvOvCocb](https://github.com/user-attachments/assets/73e0d8fa-1957-4d97-aca4-d9280cee5f81)
+
+
 ## 🚨 Notice
 
 I will **not be adding new content from my own ideas**. Most updates will focus on:
